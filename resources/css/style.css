@@ -9,10 +9,11 @@ html {
 
 body {
     margin: 0 auto;
-    background-color: darkslategrey;
-    /*background-color: #fbf9f6;*/
+    /*background-color: darkslategrey;*/
+    background-color: #fbf9f6;
     /*background-color: turquoise;*/
-    color: seashell;
+    /*color: seashell;*/
+    color: darkslategrey;
     font-family: "Baloo Tammudu 2", sans-serif;
     text-align: center;
     opacity: 0.9;
@@ -39,7 +40,8 @@ main {
 
 header {
     height: 70px;
-    background-color: darkslategrey;
+    /*background-color: darkslategrey;*/
+    background-color: #fbf9f6;
     width: 100%;
     border-bottom: 1px solid seashell;
     padding: 9px 10px;
@@ -76,7 +78,8 @@ nav li {
 }
 
 nav a {
-    color: seashell;
+    /*color: seashell;*/
+    color: darkslategrey;
 }
 
 /* Section */
@@ -97,7 +100,8 @@ nav a {
 
 #top h2, h4 {
     margin: 0 auto;
-    background-color: darkslategrey;
+    /*background-color: darkslategrey;*/
+    background-color: #fbf9f6;
     width: 100%;
     padding: 10px;
 }
